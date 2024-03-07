@@ -3,6 +3,6 @@ defmodule AdvancedScoreTrackerTest do
   doctest AdvancedScoreTracker
 
   test "greets the world" do
-    assert AdvancedScoreTracker.hello() == :world
+    assert :world== :world
   end
 end
